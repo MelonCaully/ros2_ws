@@ -1,3 +1,1 @@
-# source /opt/ros/foxy/setup.bash
-# source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash
-# source ~/ros2_ws/install/setup.bash
+To compile you will run the command 'ros2 run satellite_controller firstNode' after sourcing the project from the root 'ros2_ws' with the command 'source install/setup.bash'
