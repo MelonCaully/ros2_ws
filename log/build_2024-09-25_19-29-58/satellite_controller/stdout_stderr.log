@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing satellite_controller.egg-info/PKG-INFO
+writing dependency_links to satellite_controller.egg-info/dependency_links.txt
+writing entry points to satellite_controller.egg-info/entry_points.txt
+writing requirements to satellite_controller.egg-info/requires.txt
+writing top-level names to satellite_controller.egg-info/top_level.txt
+reading manifest file 'satellite_controller.egg-info/SOURCES.txt'
+writing manifest file 'satellite_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/site.py
+Creating /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite-controller.egg-link (link to .)
+Installing test_node script to /home/meloncaully/ros2_ws/install/satellite_controller/lib/satellite_controller
+
+Installed /home/meloncaully/ros2_ws/build/satellite_controller
+running symlink_data
+symbolically linking /home/meloncaully/ros2_ws/build/satellite_controller/resource/satellite_controller -> /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index/resource_index/packages
+symbolically linking /home/meloncaully/ros2_ws/build/satellite_controller/package.xml -> /home/meloncaully/ros2_ws/install/satellite_controller/share/satellite_controller

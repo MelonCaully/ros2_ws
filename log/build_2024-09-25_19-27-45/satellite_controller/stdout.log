@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/satellite_controller/satellite_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/satellite_controller/satellite_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/satellite_controller/satellite_controller.egg-info/entry_points.txt
+writing requirements to ../../build/satellite_controller/satellite_controller.egg-info/requires.txt
+writing top-level names to ../../build/satellite_controller/satellite_controller.egg-info/top_level.txt
+reading manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying satellite_controller/firstNode.py -> /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller
+running install
+running install_lib
+copying /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller/firstNode.py -> /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller
+byte-compiling /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller/firstNode.py to firstNode.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/satellite_controller/satellite_controller.egg-info to /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller-0.0.0-py3.8.egg-info
+running install_scripts
+Installing test_node script to /home/meloncaully/ros2_ws/install/satellite_controller/lib/satellite_controller
+writing list of installed files to '/home/meloncaully/ros2_ws/build/satellite_controller/install.log'

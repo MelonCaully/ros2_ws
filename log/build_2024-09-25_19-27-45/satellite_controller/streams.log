@@ -1,0 +1,24 @@
+[1.380s] Invoking command in '/home/meloncaully/ros2_ws/src/satellite_controller': PYTHONPATH=/home/meloncaully/ros2_ws/build/satellite_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/satellite_controller build --build-base /home/meloncaully/ros2_ws/build/satellite_controller/build install --record /home/meloncaully/ros2_ws/build/satellite_controller/install.log --install-scripts $base/lib/satellite_controller --single-version-externally-managed install_data
+[1.822s] running egg_info
+[1.824s] writing ../../build/satellite_controller/satellite_controller.egg-info/PKG-INFO
+[1.825s] writing dependency_links to ../../build/satellite_controller/satellite_controller.egg-info/dependency_links.txt
+[1.826s] writing entry points to ../../build/satellite_controller/satellite_controller.egg-info/entry_points.txt
+[1.827s] writing requirements to ../../build/satellite_controller/satellite_controller.egg-info/requires.txt
+[1.827s] writing top-level names to ../../build/satellite_controller/satellite_controller.egg-info/top_level.txt
+[1.898s] reading manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+[1.900s] writing manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+[1.901s] running build
+[1.901s] running build_py
+[1.902s] copying satellite_controller/firstNode.py -> /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller
+[1.903s] running install
+[1.904s] running install_lib
+[1.906s] copying /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller/firstNode.py -> /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller
+[1.907s] byte-compiling /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller/firstNode.py to firstNode.cpython-38.pyc
+[1.910s] running install_data
+[1.911s] running install_egg_info
+[1.915s] removing '/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller-0.0.0-py3.8.egg-info' (and everything under it)
+[1.916s] Copying ../../build/satellite_controller/satellite_controller.egg-info to /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller-0.0.0-py3.8.egg-info
+[1.918s] running install_scripts
+[1.957s] Installing test_node script to /home/meloncaully/ros2_ws/install/satellite_controller/lib/satellite_controller
+[1.961s] writing list of installed files to '/home/meloncaully/ros2_ws/build/satellite_controller/install.log'
+[2.029s] Invoked command in '/home/meloncaully/ros2_ws/src/satellite_controller' returned '0': PYTHONPATH=/home/meloncaully/ros2_ws/build/satellite_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/satellite_controller build --build-base /home/meloncaully/ros2_ws/build/satellite_controller/build install --record /home/meloncaully/ros2_ws/build/satellite_controller/install.log --install-scripts $base/lib/satellite_controller --single-version-externally-managed install_data

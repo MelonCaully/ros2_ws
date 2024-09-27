@@ -1,0 +1,9 @@
+source;share/satellite_controller/hook/pythonpath.ps1
+source;share/satellite_controller/hook/pythonpath.dsv
+source;share/satellite_controller/hook/pythonpath.sh
+source;share/satellite_controller/hook/ament_prefix_path.ps1
+source;share/satellite_controller/hook/ament_prefix_path.dsv
+source;share/satellite_controller/hook/ament_prefix_path.sh
+source;../../build/satellite_controller/share/satellite_controller/hook/pythonpath_develop.ps1
+source;../../build/satellite_controller/share/satellite_controller/hook/pythonpath_develop.dsv
+source;../../build/satellite_controller/share/satellite_controller/hook/pythonpath_develop.sh

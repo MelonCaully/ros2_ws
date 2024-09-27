@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/satellite_controller/satellite_controller.egg-info
+writing ../../build/satellite_controller/satellite_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/satellite_controller/satellite_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/satellite_controller/satellite_controller.egg-info/entry_points.txt
+writing requirements to ../../build/satellite_controller/satellite_controller.egg-info/requires.txt
+writing top-level names to ../../build/satellite_controller/satellite_controller.egg-info/top_level.txt
+writing manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/satellite_controller/satellite_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/meloncaully/ros2_ws/build/satellite_controller/build
+creating /home/meloncaully/ros2_ws/build/satellite_controller/build/lib
+creating /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller
+copying satellite_controller/__init__.py -> /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller
+running install
+running install_lib
+creating /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller
+copying /home/meloncaully/ros2_ws/build/satellite_controller/build/lib/satellite_controller/__init__.py -> /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller
+byte-compiling /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index
+creating /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index/resource_index
+creating /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index/resource_index/packages
+copying resource/satellite_controller -> /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/meloncaully/ros2_ws/install/satellite_controller/share/satellite_controller
+running install_egg_info
+Copying ../../build/satellite_controller/satellite_controller.egg-info to /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite_controller-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/meloncaully/ros2_ws/build/satellite_controller/install.log'

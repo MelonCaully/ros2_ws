@@ -1,0 +1,3 @@
+[console_scripts]
+test_node = satellite_controller.firstNode:main
+

@@ -1,0 +1,20 @@
+[1.426s] Invoking command in '/home/meloncaully/ros2_ws/build/satellite_controller': PYTHONPATH=/home/meloncaully/ros2_ws/build/satellite_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/meloncaully/ros2_ws/build/satellite_controller/build --no-deps symlink_data --force
+[2.069s] running develop
+[2.510s] running egg_info
+[2.510s] writing satellite_controller.egg-info/PKG-INFO
+[2.510s] writing dependency_links to satellite_controller.egg-info/dependency_links.txt
+[2.510s] writing entry points to satellite_controller.egg-info/entry_points.txt
+[2.511s] writing requirements to satellite_controller.egg-info/requires.txt
+[2.511s] writing top-level names to satellite_controller.egg-info/top_level.txt
+[2.583s] reading manifest file 'satellite_controller.egg-info/SOURCES.txt'
+[2.585s] writing manifest file 'satellite_controller.egg-info/SOURCES.txt'
+[2.659s] running build_ext
+[2.661s] Creating /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/site.py
+[2.665s] Creating /home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages/satellite-controller.egg-link (link to .)
+[2.667s] Installing test_node script to /home/meloncaully/ros2_ws/install/satellite_controller/lib/satellite_controller
+[2.668s] 
+[2.668s] Installed /home/meloncaully/ros2_ws/build/satellite_controller
+[2.668s] running symlink_data
+[2.668s] symbolically linking /home/meloncaully/ros2_ws/build/satellite_controller/resource/satellite_controller -> /home/meloncaully/ros2_ws/install/satellite_controller/share/ament_index/resource_index/packages
+[2.668s] symbolically linking /home/meloncaully/ros2_ws/build/satellite_controller/package.xml -> /home/meloncaully/ros2_ws/install/satellite_controller/share/satellite_controller
+[2.745s] Invoked command in '/home/meloncaully/ros2_ws/build/satellite_controller' returned '0': PYTHONPATH=/home/meloncaully/ros2_ws/build/satellite_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/ros2_ws/install/satellite_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/meloncaully/ros2_ws/build/satellite_controller/build --no-deps symlink_data --force
